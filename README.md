@@ -24,4 +24,4 @@ Program Studi Magister Statistika Terapan Universitas Padjadjaran
 <img src="img/26.png" width="750" style="display: block; margin: 0 auto;">
 <img src="img/27.png" width="750" style="display: block; margin: 0 auto;">
 <img src="img/28.png" width="750" style="display: block; margin: 0 auto;">
-<img src="img/29.png" width="750" style="display: block; margin: 0 auto;">
+<img src="img/29_1.png" width="750" style="display: block; margin: 0 auto;">
