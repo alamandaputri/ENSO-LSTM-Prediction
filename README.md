@@ -1,6 +1,6 @@
 # ENSO-LSTM-Prediction
 Ditulis oleh: Fariza Alamanda Putri  
-Program Studi Magister Statistika Terapan Universitas Padjadjaran
+Program Studi Sarjana Statistika Terapan Universitas Padjadjaran
 
 <img src="img/3.png" width="750" style="display: block; margin: 0 auto;">
 <img src="img/4.png" width="750" style="display: block; margin: 0 auto;">
